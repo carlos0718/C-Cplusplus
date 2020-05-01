@@ -1,4 +1,7 @@
 TP 1: L A R A
 
-Aplicaci髇 desarrollada en lenguaje C++.
+Esta es la primera parte de la aplicaci贸n gastron贸mica.
+Consiste en los regsitros de Platos mas costo de produci贸n,venta,entre otros.
+
+Aplicaci贸n desarrollada en lenguaje C++.
 Solo puede ser ejecutada en S.O windows

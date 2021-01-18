@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587663194 source:c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\archivos\archivo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<windows.h>
+	<clocale>
+	"Funciones.h"
+
+1587664952 c:\users\carlos alfredo jesus\desktop\tussi-utn\2do.año\laboratorio ii\2020\archivos\archivo\funciones.h
+
